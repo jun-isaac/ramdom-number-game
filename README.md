@@ -1,4 +1,5 @@
 # ramdom-number-game
+https://jun-isaac.github.io/ramdom-number-game/
 
 ## 기능
 범위를 정하고 원하는 숫자를 넣으면
